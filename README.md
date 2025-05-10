@@ -1,5 +1,5 @@
 # zargonBackup
-cli backup utility
+python backup script
 
 # Syntax
 ./zgb.py SRC DEST [LINK-DEST]
