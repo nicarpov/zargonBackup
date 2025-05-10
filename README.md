@@ -6,7 +6,7 @@ python backup script
 
 SRC - folder you want to backup
 DEST - folder to store backup
-LINK-DEST - path to one of the previous backup folders. Makes hardlonks to unchanged files.
+LINK-DEST - path to one of the previous backup folders. Makes hardlinks to unchanged files.
 
 # Usage example
 
